@@ -1,0 +1,6 @@
+Eseguendo il main:
+- vengono inizializzati gli utenti e i pacchi ad essi riferiti
+- vengono create delle chiavi (Key1 e Key2) per ogni pacco esistente per la CA 
+    salvati in ca/keys/
+- vengono XORate le chiavi (Key1 e Key2) per l'ARCHIVIO 
+    salvate in archive/utente/pacco/
